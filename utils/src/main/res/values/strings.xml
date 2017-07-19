@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Utils</string>
+    <string name="str_message">"If you enjoy using %s, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!"</string>
+    <string name="str_rate">"Rate %s"</string>
+    <string name="str_nothanks">"No, thanks"</string>
+    <string name="str_remind">"Remind me later"</string>
+</resources>

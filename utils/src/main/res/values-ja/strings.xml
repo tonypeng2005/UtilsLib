@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Utils</string>
+    <string name="str_message">"%sをお使いいただきありがとうございます。もしよろしければ、ほんの少しだけお時間をいただき評価をお願いできませんか？ご協力感謝いたします！"</string>
+    <string name="str_rate">"%sを評価する"</string>
+    <string name="str_nothanks">"結構です"</string>
+    <string name="str_remind">"あとで"</string>
+</resources>
