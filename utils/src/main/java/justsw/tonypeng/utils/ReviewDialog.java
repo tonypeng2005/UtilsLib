@@ -18,7 +18,7 @@ public class ReviewDialog {
     private static final String PREF_KEY_LAUNCH_TIMES = "PREF_KEY_LAUNCH_TIMES";
     private static final String PREF_KEY_LAST_ASK_TIME = "PREF_KEY_LAST_ASK_TIME";
 
-    static void show(Context context, int cowndown) {
+    public static void show(Context context, int cowndown) {
         SharedPreferences sharedPreferences = context.getSharedPreferences(PREF_NAME, 0);
         SharedPreferences.Editor editor = sharedPreferences.edit();
 
